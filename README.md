@@ -73,4 +73,13 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyma-kotil/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seymakotl@gmail.com)
 
+## 🎓 Other Contributions  
+
+Beyond software development, I have contributed to **academic research**:  
+
+- 📖 *Acknowledged contribution in academic research:* Provided technical and analytical support for a Master’s Thesis in Sports Sciences (Bartın University, 2021). Officially cited in the published thesis.  
+
+This experience allowed me to combine my technical skills with data-driven analysis in a different discipline, showing my ability to collaborate across fields.
+[View Thesis (Open Access)](https://acikerisim.bartin.edu.tr/bitstream/handle/11772/6750/B%C3%BC%C5%9Fra%20SA%C4%9ELAMDEM%C4%B0REL.pdf?sequence=1&isAllowed=y)
+
 ### ⚡ Fun Fact
