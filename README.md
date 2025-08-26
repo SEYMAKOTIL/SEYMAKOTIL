@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, My name is Şeyma and I'm a C# Developer from Sakarya/Turkey
 
-<!--
-**SEYMAKOTIL/SEYMAKOTIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C# & .NET Developer | 📱 Mobile App Developer | 🎮 Game Developer
+📍 Sakarya, Turkey | Ankara, Turkey
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎯 Career Goal: Becoming a skilled software developer and contributing to innovative projects  
+- 🔭 Currently working on: [Your project name]  
+- 🌱 Learning & Improving: C#, .NET 8, MAUI, Unreal Engine 5 , Unity 6
+- 🌍 Open to remote opportunities
+  
+### 🛠 Technologies & Tools
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=unrealengine)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyma-kotil/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seymakotl@gmail.com)
+
+### ⚡ Fun Fact
