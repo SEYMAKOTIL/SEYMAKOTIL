@@ -1,6 +1,7 @@
 # 👋 Hi, My name is Şeyma and I'm a C# Developer from Sakarya/Turkey
 
 💻 C# & .NET Developer | 📱 Mobile App Developer | 🎮 Game Developer
+
 📍 Sakarya, Turkey | Ankara, Turkey
 
 ### 🚀 About Me
