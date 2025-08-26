@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 🎯 Career Goal: Becoming a skilled software developer and contributing to innovative projects  
 - 🔭 Currently working on: [Your project name]  
-- 🌱 Learning & Improving: C#, .NET 8, MAUI, Unreal Engine 5 , Unity 6
+- 🌱 Learning & Improving: C#, .NET 8-9, MAUI, Unreal Engine 5 , Unity 6
 - 🌍 Open to remote opportunities
 
 ## 🛠 Technologies & Tools  
