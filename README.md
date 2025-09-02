@@ -85,3 +85,5 @@ This experience allowed me to combine my technical skills with data-driven analy
 [View Thesis (Open Access)](https://acikerisim.bartin.edu.tr/bitstream/handle/11772/6750/B%C3%BC%C5%9Fra%20SA%C4%9ELAMDEM%C4%B0REL.pdf?sequence=1&isAllowed=y)
 
 ### ⚡ Fun Fact
+
+I love solving math like crazy
