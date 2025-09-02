@@ -6,8 +6,8 @@
 
 ### 🚀 About Me
 - 🎯 Job Experience:
-  >  ZSS - ZEY DEFENCE INDUSTRY – FREELANCE - COMPUTER PROGRAMMER - 8 Months
-  >  SANCAKLI METAL STRUCTURE – OFFICE WORKER – 2 Months
+  > ZSS - ZEY DEFENCE INDUSTRY – FREELANCE - COMPUTER PROGRAMMER - 8 Months
+  > SANCAKLI METAL STRUCTURE – OFFICE WORKER – 2 Months
   > SASKI GENERAL DIRECTORATE TECHNICAL UNITS – SOFTWARE INTERN - 2 Months
 - 🌱 Learning & Improving: C#, .NET 8-9, MAUI, Unreal Engine 5 , Unity 6
 - 🌍 Open to remote opportunities
