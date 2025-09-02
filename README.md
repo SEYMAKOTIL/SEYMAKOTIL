@@ -1,12 +1,14 @@
-# 👋 Hi, My name is Şeyma and I'm a C# Developer from Sakarya/Turkey
+# 👋 Hi, My name is Şeyma and I'm a C# Developer from Turkey
 
 💻 C# & .NET Developer | 📱 Mobile App Developer | 🎮 Game Developer
 
 📍 Sakarya, Turkey | Ankara, Turkey
 
 ### 🚀 About Me
-- 🎯 Career Goal: Becoming a skilled software developer and contributing to innovative projects  
-- 🔭 Currently working on: [Your project name]  
+- 🎯 Job Experience:
+  >  ZSS - ZEY DEFENCE INDUSTRY – FREELANCE - COMPUTER PROGRAMMER - 8 Months
+  >  SANCAKLI METAL STRUCTURE – OFFICE WORKER – 2 Months
+  > SASKI GENERAL DIRECTORATE TECHNICAL UNITS – SOFTWARE INTERN - 2 Months
 - 🌱 Learning & Improving: C#, .NET 8-9, MAUI, Unreal Engine 5 , Unity 6
 - 🌍 Open to remote opportunities
 
