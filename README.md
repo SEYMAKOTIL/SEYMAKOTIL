@@ -4,7 +4,9 @@
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/seymakotil) : behance.net/https://www.behance.net/seymakotil
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seyma-kotil) : linkedin.com/in/seyma-kotil
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seymakotl@gmail.com) : seymakotl@gmail.com
 
 ## 🛠 Technologies & Tools  
